@@ -4,7 +4,7 @@ Database migration project showcasing Azure SQL Database deployment, secure SSMS
 
 <br>
 First we create an SQL database in Azure(this is where we are migrating to):
-
+<br>
 <img src=".assets/01.png">
 
 
