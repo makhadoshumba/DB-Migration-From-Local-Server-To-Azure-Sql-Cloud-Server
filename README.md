@@ -2,7 +2,7 @@
 Database migration project showcasing Azure SQL Database deployment, secure SSMS connectivity, and successful migration from on-prem SQL Server to Cloud server(Azure). This will enable my website to connect to database online once it live, since a local sql serevr is only limited to local use, only good for testing purposes.
 
 
-
+<br>
 First we create an SQL database in Azure(this is where we are migrating to):
 <img src=".assets/01.png">
 
