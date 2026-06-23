@@ -3,7 +3,7 @@ Database migration project showcasing Azure SQL Database deployment, secure SSMS
 
 <br>
 To begin this migration process, I had to create an SQL database in Azure(this is where we are migrating to):
-<img src=".assets/01.png" style="width: 700px; height: 400px;" >
+<img src=".assets/01.png" style="width: 650px; height: 400px;" >
 
 <br>
 I created the resource group and named the Database(NB! this should be the same as the local database you want migrate):
