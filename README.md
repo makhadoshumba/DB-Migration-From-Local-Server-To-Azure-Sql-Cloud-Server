@@ -7,19 +7,19 @@ To begin this migration process, I had to create an SQL database in Azure(this i
 
 <br>
 I created the resource group and named the Database(NB! this should be the same as the local database you want migrate):
-<img src=".assets/02.png">
+<img src=".assets/02.png" style="width: 800px; height: 500px;">
 
 <br>
 Now I created a server that I will later use to connect Azure Database to SQL Server Management Studio (SSMS) allowing me o manage it form there:
-<img src=".assets/03.png">
+<img src=".assets/03.png" style="width: 800px; height: 500px;">
 
 <br>
 I used "SQL authentication" as a authentication method. This will later make connecting the server to SSMS seamless later on:
-<img src=".assets/04.png">
+<img src=".assets/04.png" style="width: 800px; height: 500px;">
 
 <br>
 Reviewed my configs:
-<img src=".assets/05.png">
+<img src=".assets/05.png" style="width: 800px; height: 500px;">
 
 <br>
 I am deploying now:
